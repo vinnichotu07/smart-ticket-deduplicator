@@ -5,8 +5,8 @@
 ---
 
 ## 👥 Team Members
-- Susrutha Maddi Reddy  
-- Mummadi Khasvi Reddy  
+- Mummadi Khasvi Reddy
+- Susrutha Maddi Reddy 
 - Varimadugu Harshitha  
 - Chinthakayala Nandhini  
 
