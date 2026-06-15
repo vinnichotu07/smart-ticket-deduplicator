@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Login Failure",
+    "description": "Users are unable to login and receiving 403 forbidden error."
+  },
+  {
+    "title": "Authentication Issue",
+    "description": "Login page shows access denied error when submitting credentials."
+  },
+  {
+    "title": "Payment Failure",
+    "description": "Transaction is failing during checkout with payment gateway error."
+  },
+  {
+    "title": "Checkout Error",
+    "description": "Users cannot complete purchase due to payment processing failure."
+  },
+  {
+    "title": "UI Bug in Signup",
+    "description": "Signup button is not clickable and form is stuck."
+  },
+  {
+    "title": "Registration Issue",
+    "description": "Users are unable to register because submit button is disabled."
+  },
+  {
+    "title": "Database Timeout",
+    "description": "System is slow and checkout page is timing out due to DB connection issues."
+  }
+]
